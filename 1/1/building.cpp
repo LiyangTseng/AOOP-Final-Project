@@ -13,7 +13,6 @@
 #include "add1.h"
 #include "prime.h"
 #include "mario.h"
-#include "fire.h"
 #include "subtract1.h"
 #include "stringperiod.h"
 #include "largefactorial.h"
@@ -48,7 +47,6 @@ Building::Building()
     floor[9] = new Floor(new Add1());
     floor[10] = new Floor(new Prime());
     floor[11] = new Floor(new Mario());
-    floor[12] = new Floor(new Fire());
     floor[13] = new Floor(new Subtract1());
     floor[14] = new Floor(new StringPeriod());
     floor[15] = new Floor(new LargeFactorial());

@@ -33,7 +33,6 @@ SOURCES += \
         easycity2.cpp \
         fib.cpp \
         findfactorial.cpp \
-        fire.cpp \
         floor.cpp \
         getsignature.cpp \
         getsolution.cpp \
@@ -51,7 +50,6 @@ SOURCES += \
         minesweeper.cpp \
         mydatabase.cpp \
         mymath.cpp \
-        myother.cpp \
         palindrome.cpp \
         problemset.cpp \
         shortestdistance.cpp \
@@ -71,7 +69,6 @@ HEADERS += \
         easycity2.h \
         fib.h \
         findfactorial.h \
-        fire.h \
         floor.h \
         getsignature.h \
         getsolution.h \
@@ -86,7 +83,6 @@ HEADERS += \
         mario.h \
         maze.h \
         minesweeper.h \
-        myother.h \
         palindrome.h \
         shortestdistance.h \
         mydatabase.h \
